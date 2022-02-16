@@ -16,6 +16,8 @@ Short description of each tab:
 
 **DMSOvsddH2O-Cnt**: contains data for checking the effect of DMSO/ddH2O in no-modifier (cnt) experiments. Biological replicates are shown separately – data from processing with cnt+DMSO and cnt+ddH2O are shown in top and bottom, respectively. 
 
+**miR-titration-Cnt**:contains data of different titrations (1:1 and 1:2) betweeen _miR-34a_ (here as the second RNA component) and trans-scaffold. 
+
 **mSIRT1-averaged**: presents averaged value of biological replicates for mSIRT1 sequence (trans-scaffold)
 
 **mSIRT1-averaged-dReactivity**: presents ∆Reactivity values, calculated from averaged values. The covariance values, used for calculating standard deviation (STDev) are shown, as well.
